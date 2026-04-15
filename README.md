@@ -14,6 +14,15 @@ I am a software engineer dedicated to building high-performance, cross-platform 
 - **Key Feature:** Automated financial ledgers for maintenance billing and expense tracking.
 - **Backend:** Scalable RESTful API deployed on Railway.
 
+<p align="center">
+  <img src="dashboard.png" width="200" title="App Dashboard" alt="Dashboard">
+  <img src="ledger.png" width="200" title="Financial Ledger" alt="Ledger">
+  <img src="notifications.png" width="200" title="Push Notifications" alt="Notifications">
+  <img src="complaints.png" width="200" title="Submit Complaints" alt="Complaints">
+  <img src="receipts.png" width="200" title="Upload Receipts" alt="Receipts">
+
+</p>
+
 ### 📍 Travel Log | Personal Journey Tracker
 *A cross-platform travel diary for modern explorers.*
 - **Status:** 🚀 [**Live on Google Play Store**](https://play.google.com/store/apps/details?id=com.fsolutions.travellog3)
@@ -38,5 +47,5 @@ I am a software engineer dedicated to building high-performance, cross-platform 
 ---
 
 ## 📫 Connect with me
-- **LinkedIn:** [www.linkedin.com/in/fatima-tayyab-3609928b]
-**Email:** [fatimatayyab.dev@gmail.com]
+- **LinkedIn:** [linkedin.com/in/fatima-tayyab-3609928b](https://www.linkedin.com/in/fatima-tayyab-3609928b)
+- **Email:** [fatimatayyab.dev@gmail.com](mailto:fatimatayyab.dev@gmail.com)
