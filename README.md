@@ -29,6 +29,11 @@ I am a software engineer dedicated to building high-performance, cross-platform 
 - **Tech Stack:** Flutter, Firebase (Auth/Firestore/FCM), Google Maps SDK.
 - **Focus:** Real-time data syncing and smooth UI/UX with custom animations.
 
+<p align="center">
+https://github.com/user-attachments/assets/ccad7145-5631-4e9c-8b5c-73b05d023b32
+</p>
+
+
 ---
 
 ## 🛠️ Technical Toolbox
